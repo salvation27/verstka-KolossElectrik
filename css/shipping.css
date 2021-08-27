@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
+
+.container{
+    max-width: 1170px !important;
+}  
+
+.payment{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.payment_title{
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: #324254;
+    margin-bottom: 30px;
+}
+.payment_card{
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+.payment_card_img{
+    margin-right: 20px;
+}
+.payment_card_img img{
+    width: 200px;
+}
+.payment_card_title{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    color: #324254;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+.payment_card_text{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color: #324254;
+    margin-bottom: 3px;
+}
+
+.shipping{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.sipping_title{
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: #324254;
+}
+.shipping_text{
+    font-size: 21px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: #324254;
+    opacity: .8;
+    margin-bottom: 30px;
+}
+.shipping_cards_wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.shipping_card img{
+    width: 250px;
+}
+
+
+.info{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.info_title{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+}
+.info_text{
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+    opacity: .8;
+}

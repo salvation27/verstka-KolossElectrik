@@ -1,0 +1,41 @@
+
+@font-face {
+  font-family: 'Montserrat-Bold';                                  
+  src:url('Montserrat-Bold.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova-Regular';                                  
+  src:url('ProximaNova-Regular.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ProximaNova-Bold';                                  
+  src:url('ProximaNova-Bold.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ForumRegular';                                  
+  src:url('ForumRegular.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TenorSans-Regular';                                  
+  src:url('TenorSans-Regular.ttf') ;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+font-family: 'Roboto', sans-serif;
+
+
